@@ -9,7 +9,7 @@
       "clients": [
         {
           "id": "your_uuid",
-          "alterId": 64
+          "alterId": 16
         }
       ]
     },
