@@ -1,7 +1,12 @@
 {
-  "log": {
-    "loglevel": "error"
-  },
+  "dns": {
+   "server": [
+      "104.168.71.142",
+      "1.1.1.1",
+      "8.8.8.8",
+      "localhost"
+                ]
+   },
   "inbound": {
     "protocol": "vmess",
     "port": 8080,
