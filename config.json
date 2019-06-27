@@ -13,7 +13,7 @@
       "clients": [
         {
           "id": "your_uuid",
-          "alterId": 16
+          "alterId": 0
         }
       ]
     },
